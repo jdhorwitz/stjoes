@@ -7,7 +7,7 @@ import './index.css';
 const Speakers = () => (
   <div>
     <Divider hidden></Divider>
-    <Header as='h3' block>
+    <Header as='h3' block textAlign="center">
       Open Talk Recordings
     </Header>
     <div className="speakers">
