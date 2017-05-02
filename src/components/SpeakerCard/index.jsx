@@ -1,18 +1,18 @@
 import React from 'react';
 import { Button, Card } from 'semantic-ui-react';
-import { Entrance } from 'animate-components';
+import { ExpandUp } from 'animate-components';
 import './index.css';
 
-const SpeakerCard = ({ name, url }) => (
+const SpeakerCard = ({ name, date, url }) => (
   <div className="speaker-card">
-    <Entrance duration="2s">
+    <ExpandUp duration="1s">
       <Card color='green'>
         <Card.Content>
           <Card.Header>
-            {name}
+            {name} - {date}
           </Card.Header>
           <Card.Description>
-            {name} gives an open talk at Saturday Night at St. Joes.
+            {name} gives an open talk at St. Joes.
           </Card.Description>
         </Card.Content>
         <Card.Content extra>
@@ -21,7 +21,7 @@ const SpeakerCard = ({ name, url }) => (
           </div>
         </Card.Content>
       </Card>
-    </Entrance>
+    </ExpandUp>
   </div>
 );
 

@@ -12,8 +12,8 @@ const Speakers = () => (
     </Header>
     <div className="speakers">
       <Card.Group>
-        {talks.map((talk) => {
-          return <SpeakerCard name={talk.name} url={talk.url} />
+        {talks.map((talk, i) => {
+          return <SpeakerCard name={talk.name} key={i} url={talk.url} date={talk.date} />
         })}
       </Card.Group>
     </div>
