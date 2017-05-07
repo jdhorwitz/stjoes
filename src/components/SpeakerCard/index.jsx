@@ -1,11 +1,11 @@
 import React from 'react';
 import { Button, Card } from 'semantic-ui-react';
-import { ExpandUp } from 'animate-components';
+import { Bounce } from 'animate-components';
 import './index.css';
 
 const SpeakerCard = ({ name, date, url }) => (
   <div className="speaker-card">
-    <ExpandUp duration="1s">
+    <Bounce duration="1s">
       <Card color='green'>
         <Card.Content>
           <Card.Header>
@@ -21,7 +21,7 @@ const SpeakerCard = ({ name, date, url }) => (
           </div>
         </Card.Content>
       </Card>
-    </ExpandUp>
+    </Bounce>
   </div>
 );
 
