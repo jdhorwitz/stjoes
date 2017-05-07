@@ -2,5 +2,9 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+}
+
+.cards {
+  justify-content: space-around;
+  align-items: center;
 }

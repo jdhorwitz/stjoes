@@ -11,7 +11,7 @@ const Speakers = () => (
       Open Talk Recordings
     </Header>
     <div className="speakers">
-      <Card.Group>
+      <Card.Group className="cards">
         {talks.map((talk, i) => {
           return <SpeakerCard name={talk.name} key={i} url={talk.url} date={talk.date} />
         })}
