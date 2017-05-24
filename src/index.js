@@ -4,7 +4,7 @@ import Speakers from './components/Speakers';
 import About from './components/About';
 import Home from './components/Home';
 import App from './App';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import 'semantic-ui-css/semantic.min.css';
 import './index.css';
 
