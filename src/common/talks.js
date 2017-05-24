@@ -26,17 +26,17 @@ export const talks = [
     date: 'April 2017',
     url: 'https://archive.org/details/ChristinaN.April2017'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Matt B.',
+    date: 'April 2017',
+    url: 'https://archive.org/details/MattB'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Carol P',
+    date: 'April 2017',
+    url: 'https://archive.org/details/MattB'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Chrissy T',
+    date: 'February 2014',
+    url: 'https://archive.org/details/Chrissy02072015'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
