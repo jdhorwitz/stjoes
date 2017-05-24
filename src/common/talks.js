@@ -62,21 +62,21 @@ export const talks = [
     date: 'October 2014',
     url: 'https://archive.org/details/CarrieJo10182014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Amanda K',
+    date: 'October 2014',
+    url: 'https://archive.org/details/AmandaK10042014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Pat G.',
+    date: 'January 2008',
+    url: 'https://archive.org/details/PatG01052008'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Larkin L.',
+    date: 'October 2014',
+    url: 'https://archive.org/details/LarkinL10252014m'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Adam H.',
+    date: 'January 2015',
+    url: 'https://archive.org/details/AdamH01032015'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
