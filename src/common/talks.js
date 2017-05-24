@@ -38,29 +38,29 @@ export const talks = [
     date: 'February 2014',
     url: 'https://archive.org/details/Chrissy02072015'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Micki M',
+    date: 'June 2012',
+    url: 'https://archive.org/details/MickiM06302012'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Ben R.',
+    date: 'December 2012',
+    url: 'https://archive.org/details/BenR120112'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Emily F.',
+    date: 'February 2013',
+    url: 'https://archive.org/details/EmilyF020913'
   },{
-    name: 'Billy S',
+    name: 'Kevin P.',
     date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    url: 'https://archive.org/details/KevinP08302014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Mark R.',
+    date: 'September 2013',
+    url: 'https://archive.org/details/MarkR09142013'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Carrie Jo.',
+    date: 'October 2014',
+    url: 'https://archive.org/details/CarrieJo10182014'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
