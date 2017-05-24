@@ -5,26 +5,26 @@ export const talks = [
     url: 'https://archive.org/details/AaronS070211'
   },
   {
-    name: 'Amber',
-    date: 'January 21, 2016',
-    url: 'http://www.yahoo.com'
+    name: 'Alan C',
+    date: 'August 2011',
+    url: 'https://archive.org/details/AlanC081311'
   },
   {
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Rob S',
+    date: 'March 2012',
+    url: 'https://archive.org/details/RobS03172012'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Rebecca B',
+    date: 'December 2010',
+    url: 'https://archive.org/details/RebeccaB12182010'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Ross Z',
+    date: 'September 2014',
+    url: 'https://archive.org/details/RossZ09272014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Christina N.',
+    date: 'April 2017',
+    url: 'https://archive.org/details/ChristinaN.April2017'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
