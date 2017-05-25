@@ -130,8 +130,12 @@ export const talks = [
     date: 'August 2014',
     url: 'https://archive.org/details/Dedra08232014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Alisha S',
+    date: 'MOctober 2012',
+    url: 'https://archive.org/details/AlishaS10272012_734'
+  },{
+    name: 'Alisha S',
+    date: 'MOctober 2012',
+    url: 'https://archive.org/details/AlishaS10272012_734'
   }
 ];
