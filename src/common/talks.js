@@ -122,13 +122,13 @@ export const talks = [
     date: 'August 2012',
     url: 'https://archive.org/details/CharlesC08112012'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Molly',
+    date: 'November 2014',
+    url: 'https://archive.org/details/Molly11012014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Dedra',
+    date: 'August 2014',
+    url: 'https://archive.org/details/Dedra08232014'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
