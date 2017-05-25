@@ -131,11 +131,11 @@ export const talks = [
     url: 'https://archive.org/details/Dedra08232014'
   },{
     name: 'Alisha S',
-    date: 'MOctober 2012',
+    date: 'October 2012',
     url: 'https://archive.org/details/AlishaS10272012_734'
   },{
-    name: 'Alisha S',
-    date: 'MOctober 2012',
-    url: 'https://archive.org/details/AlishaS10272012_734'
+    name: 'Marty G.',
+    date: 'August 2015',
+    url: 'https://archive.org/details/MartyG.815154'
   }
 ];
