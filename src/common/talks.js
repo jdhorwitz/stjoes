@@ -168,5 +168,20 @@ export const talks = [
     name: 'Marty G.',
     date: 'August 2015',
     url: 'https://archive.org/details/MartyG.815154'
+  },
+  {
+    name: 'Nancy T.',
+    date: 'May 2015',
+    url: 'https://archive.org/details/NancyT.51615'
+  },
+  {
+    name: 'Katy E.',
+    date: 'August 2015',
+    url: 'https://archive.org/details/KatieE09062014'
+  },
+  {
+    name: 'Meg B.',
+    date: 'May 2012',
+    url: 'https://archive.org/details/MegB05052012'
   }
 ];
