@@ -78,49 +78,49 @@ export const talks = [
     date: 'January 2015',
     url: 'https://archive.org/details/AdamH01032015'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Josh H.',
+    date: 'December 2014',
+    url: 'https://archive.org/details/JoshH12192014'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Pam H.',
+    date: 'July 2010',
+    url: 'https://archive.org/details/PamH07242010'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Dan T.',
+    date: 'April 2012',
+    url: 'https://archive.org/details/DanT04282012'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'John Z.',
+    date: 'March 2014',
+    url: 'https://archive.org/details/JohnZ.32914'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Sarah O.',
+    date: 'July 2015',
+    url: 'https://archive.org/details/SarahO.72515'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Trevor S',
+    date: 'March 2015',
+    url: 'https://archive.org/details/TrevorS.31415'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Frank K.,
+    date: 'January 2011',
+    url: 'https://archive.org/details/FrankK011412'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Garrett G.',
+    date: 'April 2014',
+    url: 'https://archive.org/details/GarrettG.42614'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Lauren H.',
+    date: 'March 2012',
+    url: 'https://archive.org/details/LaurenH03242012'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Herb M.',
+    date: 'February 2012',
+    url: 'https://archive.org/details/HerbM020412'
   },{
-    name: 'Billy S',
-    date: 'March 5, 2017',
-    url: 'http://www.google.com'
+    name: 'Charles C',
+    date: 'August 2012',
+    url: 'https://archive.org/details/CharlesC08112012'
   },{
     name: 'Billy S',
     date: 'March 5, 2017',
