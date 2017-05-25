@@ -125,7 +125,7 @@ export const talks = [
     url: 'https://archive.org/details/TrevorS.31415'
   },
   {
-    name: 'Frank K.,
+    name: 'Frank K.',
     date: 'January 2011',
     url: 'https://archive.org/details/FrankK011412'
   },
