@@ -1,5 +1,15 @@
 export const talks = [
   {
+    name: 'Kayla',
+    date: '2017',
+    url: 'https://archive.org/details/KaylaJanuary2017'
+  },
+  {
+    name: 'Lara K.',
+    date: '2017',
+    url: 'https://archive.org/details/LauraK2017'
+  },
+  {
     name: 'Aaron S',
     date: 'July 2017',
     url: 'https://archive.org/details/AaronS070211'
