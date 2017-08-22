@@ -5,11 +5,6 @@ export const talks = [
     url: 'https://archive.org/details/AaronS070211'
   },
   {
-    name: 'Test',
-    date: 'TRest',
-    url: 'test'
-  },
-  {
     name: 'Alan C',
     date: 'August 2011',
     url: 'https://archive.org/details/AlanC081311'
